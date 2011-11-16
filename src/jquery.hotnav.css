@@ -1,0 +1,15 @@
+.hotnav-accesskey{
+	background:#FFFFFF none repeat scroll 0 0;
+	border:2px solid #333333;
+	color:#333333 !important;
+	display:none;
+	height:11px;
+	line-height:11px;
+	padding:3px;
+	position:absolute;
+	right:0;
+	bottom:0;
+	vertical-align:middle;
+	font-weight:bold;
+	font-size:14px;
+}
